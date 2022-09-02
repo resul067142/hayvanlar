@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/hayvanlar",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ahmet Taşhan",
+      "email": "ahmet@tashan.cc"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "MyApp\\": "MyApp/"
+    }
+  }
+}
